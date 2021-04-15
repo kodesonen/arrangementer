@@ -1,6 +1,6 @@
-# Kategori 2 - Webutvikling
 :arrow_left: &nbsp;[Gå tilbake til oversikten](../README.md)
 
+# Kategori 2 - Webutvikling
 > **Definisjon:**
 > A web application is a computer program that utilizes web browsers and web technology to perform tasks over the Internet.
 
