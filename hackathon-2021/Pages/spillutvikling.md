@@ -8,3 +8,21 @@ ___
 Hvilket språk du ønsker å bruke, om det måtte være C#, Python eller et visuelt programmeringsspråk (VPL) er også helt opp til deg. Samme gjelder hvilken spillmotor du ønsker å bruke, som for eksempel Unity, Unreal Engine eller Godot. Om du derimot ikke ønsker å bruke en spillmotor, men heller lage alt fra bunnen av er dette også greit.
 
 Det kan nevnes at Kodesonen sine mentorer har mest erfaring med Unity, så om du ønsker å motta best mulig hjelp fra våre mentorer anbefaler vi Unity med C#.
+
+____
+
+Hvis du ønsker å hente inn ekstra poeng utover en vurdering av det helhetelige, kan du implementere noen av disse funksjonene:
+
+- Event Triggers
+- NPC og/eller AI
+- Valgtre
+- Egen fysikk
+- Musikk
+- Lydeffekt
+- Animasjon
+- Modeller (3D og 2D)
+- Texture/Materials
+- GUI
+- Random Generation
+
+Hver eneste ting du implementerer legges på topp av den helhetelige vurderingen som et poeng. Det vil si at om du for eksempel har implementert lydeffekt, så vil du kun få et poeng uavhengig av hvor mange lydeffekter du har brukt. 
