@@ -13,13 +13,15 @@ Det kan nevnes at Kodesonen sine mentorer har mest erfaring med Unity, så om du
 
 Vurderingen av spillet vil være basert på en kombinasjon:
 - **Game Mechanics:**
-  Dette tar for seg hvordan reglene i spillet fungerer. For eksempel, hvordan spilleren blir begrenset til å bevege seg rundt eller hvordan et objekt kan bli flyttet i spillet.
+  Dette tar for seg hvordan reglene i spillet fungerer. For eksempel, hvordan spilleren blir begrenset til å bevege seg rundt eller hvordan et objekt kan bli flyttet på i spillet.
 
 - **Game Dynamics:**
-  
+  Dette tar for seg de valgene spilleren har sett bort fra Game Mechanics. For eksempel, hvordan spilleren opplever belønningene, konkurransen og andre behov.
 
 - **Game Aesthetics:**
-  
+  Dette tar for seg den emosjonelle responsen spilleren vil få fra spillet. For eksempel, hvilken historie spillet prøver å fortelle.
+
+For mer informasjon angående de forskjellige kategoriene, går det an å lese https://en.wikipedia.org/wiki/MDA_framework.
 
 Hvis du ønsker å hente inn ekstra poeng utover en vurdering av det helhetlige, kan du implementere noen av disse funksjonene:
 
