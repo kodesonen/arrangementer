@@ -16,9 +16,7 @@ Løsningene vil mot slutten av arrangementet bli vurdert av et sett med dommere 
 
 ## Kategorier
 
-### :video_game: [Spillutvikling](Pages/spillutvikling.md)
-### :computer: [Webutvikling](Pages/webutvikling.md) 
-### :arrows_counterclockwise: [API utvikling](Pages/api-utvikling.md)
+### :video_game: [Spillutvikling](Pages/spillutvikling.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: [Webutvikling](Pages/webutvikling.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrows_counterclockwise: [API utvikling](Pages/api-utvikling.md)
 
 
 ## Vurdering
