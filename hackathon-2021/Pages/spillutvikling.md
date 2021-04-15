@@ -11,7 +11,7 @@ Det kan nevnes at Kodesonen sine mentorer har mest erfaring med Unity, så om du
 
 ## Vurdering
 
-Vurderingen av spillet vil være basert på et MDA framework fra spilldesign:
+Vurderingen av spillet vil være basert på et MDA Framework fra spilldesign:
 - **Game Mechanics:**
   Dette tar for seg hvordan reglene i spillet fungerer. For eksempel, hvordan spilleren blir begrenset til å bevege seg rundt eller hvordan et objekt kan bli flyttet på i spillet.
 
