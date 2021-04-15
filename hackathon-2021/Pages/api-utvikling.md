@@ -60,7 +60,7 @@ Spør oss om du sitter fast! Dette skal være en gøy oppgave og vi er her for �
 # Alternativ 2
 > Vanskelighetsgrad: Avansert
 
-I dette alternativet er målet å lage et API som beregner antall medlemmer som er registert på Kodesonen. API-et skal gjennomføre beregningen ved forspørsel fra en bruker via HTTP metoden "GET" og sende resultatet i JSON format tilbake. Du har tilgang på et diagram som viser en oversikt over MySQL tabellen som skal brukes for å løse oppgaven (Assets -> API-Alternativ-2 -> database.sql). I tillegg har du tilgang til en sql-fil som du kan benytte til å bygge databasen på din lokale maskin for å teste funsksjonaliteten til API-et (Assets -> API-Alternativ-2 -> database.sql).
+I dette alternativet er målet å lage et API som beregner antall medlemmer som er registert på Kodesonen. API-et skal gjennomføre beregningen ved forspørsel fra en bruker via HTTP metoden "GET" og sende resultatet i JSON format tilbake. Du har tilgang på et diagram som viser en oversikt over MySQL tabellen som skal brukes for å løse oppgaven (Assets -> sql-table.png). I tillegg har du tilgang til en sql-fil som du kan benytte til å bygge databasen på din lokale maskin for å teste funsksjonaliteten til API-et (Assets -> database.sql).
 
 For å lage API-et anbefaler vi å bruke node.js web rammeverket express (JavaScript). Andre alternativer er Django (Python) og .NET-rammeverket til Microsoft (C#).
 
