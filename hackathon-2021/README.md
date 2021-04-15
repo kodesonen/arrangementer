@@ -17,6 +17,10 @@ Løsningene vil mot slutten av arrangementet bli vurdert av et sett med dommere 
 
 Løsningene vil bli vurdert utifra et sett med kriterier av et panel med dommere. Disse kriteriene omhandler de tekniske aspektene, gjennomførelse, design og estetikk. Det vil totalt bli annonsert tre vinnere for beste løsning innen tre ulike kategorier. 
 
+## Kategorier
+
+### [Spillutvikling](/Pages/spillutvikling.md)
+
 ## Premier
 
 De topp 3 beste løsningene vil bli premiert med kule premier, mens alle deltakerne vil motta en mindre gave og et diplom som en takk for sin deltakelse.
