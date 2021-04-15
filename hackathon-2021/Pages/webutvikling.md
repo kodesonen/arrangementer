@@ -20,4 +20,6 @@ Vurderingen av websiden er en helhetlig vurdering, det vil si at alle aspekter m
 
 Hver eneste ting du implementerer legges på topp av den helhetlige vurderingen som et poeng. Det vil si at om du for eksempel har implementert en navigasjonsbar, så vil du kun få et poeng uavhengig av hvor mange navigasjonsbarer du har brukt. 
 
-Hvis du har noen spørsmål eller trenger hjelp, kan du benytte deg av lydrommet og samtalerommet på Discord under Hackathon. Vi gleder oss til å se hva nettopp du lager. Lykke til!
+Hvis du har noen spørsmål eller trenger hjelp, kan du benytte deg av lydrommet og samtalerommet på Discord under Hackathon. Er du ikke medlem på Discord allerede, så kan du bli medlem på https://kodesonen.no/discord. 
+
+**Vi gleder oss til å se hva nettopp du lager. Lykke til!**
