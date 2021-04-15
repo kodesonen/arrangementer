@@ -1,6 +1,6 @@
-# Kategori 3 - API-utvikling
 :arrow_left: &nbsp;[Gå tilbake til oversikten](../README.md)
 
+# Kategori 3 - API-utvikling
 ### Introduksjon til API og integrasjonsløsninger
 Et API, eller application programming interface, brukes til å sende data fram og tilbake mellom programvareapper på en formalisert måte. For å gjøre det enkelt, kan du beskrive et API som en strukturert måte å overføre data fra ett sted til et annet. 
 
