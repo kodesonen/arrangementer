@@ -9,9 +9,9 @@ Hvilket språk du ønsker å bruke, om det måtte være C#, Python eller et visu
 
 Det kan nevnes at Kodesonen sine mentorer har mest erfaring med Unity, så om du ønsker å motta best mulig hjelp fra våre mentorer anbefaler vi Unity med C#.
 
-____
+## Vurdering
 
-Hvis du ønsker å hente inn ekstra poeng utover en vurdering av det helhetelige, kan du implementere noen av disse funksjonene:
+Hvis du ønsker å hente inn ekstra poeng utover en vurdering av det helhetlige, kan du implementere noen av disse funksjonene:
 
 - Event Triggers
 - NPC og/eller AI
@@ -25,4 +25,4 @@ Hvis du ønsker å hente inn ekstra poeng utover en vurdering av det helhetelige
 - GUI
 - Random Generation
 
-Hver eneste ting du implementerer legges på topp av den helhetelige vurderingen som et poeng. Det vil si at om du for eksempel har implementert lydeffekt, så vil du kun få et poeng uavhengig av hvor mange lydeffekter du har brukt. 
+Hver eneste ting du implementerer legges på topp av den helhetlige vurderingen som et poeng. Det vil si at om du for eksempel har implementert lydeffekt, så vil du kun få et poeng uavhengig av hvor mange lydeffekter du har brukt. 
