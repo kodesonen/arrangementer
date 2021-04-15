@@ -20,6 +20,7 @@ Løsningene vil mot slutten av arrangementet bli vurdert av et sett med dommere 
 ### :computer: [Webutvikling](/Pages/webutvikling.md) 
 ### :arrows_counterclockwise: [API utvikling](/Pages/api-utvikling.md)
 
+
 ## Vurdering
 
 Løsningene vil bli vurdert utifra et sett med kriterier av et panel med dommere. Disse kriteriene omhandler de tekniske aspektene, gjennomførelse, design og estetikk. Det vil totalt bli annonsert tre vinnere for beste løsning innen tre ulike kategorier. 
@@ -27,3 +28,7 @@ Løsningene vil bli vurdert utifra et sett med kriterier av et panel med dommere
 ## Premier
 
 De topp 3 beste løsningene vil bli premiert med kule premier, mens alle deltakerne vil motta en mindre gave og et diplom som en takk for sin deltakelse.
+
+## Levering
+
+Løsninger til Hackathonet kan leveres
