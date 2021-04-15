@@ -27,7 +27,7 @@ Løsningene vil bli vurdert utifra et sett med kriterier av et panel med dommere
 
 De topp 3 beste løsningene vil bli premiert med kule premier, mens alle deltakerne vil motta en mindre gave og et diplom som en takk for sin deltakelse.
 
-## Discord
+## Hjelp og samarbeid
 
 Placeholder
 
