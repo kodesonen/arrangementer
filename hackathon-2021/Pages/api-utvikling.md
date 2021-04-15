@@ -16,14 +16,14 @@ I JSON struktureres verdiene dine i to typer dataobjekter: ordbøker og lister. 
 En liste er ganske enkelt en ordnet samling med verdier. I JSON ser de ut som [verdi1, verdi2, verdi3] osv. I begge tilfeller kan du angi verdiene som tekst, tall, boolske verdier (sant eller usant), ordbøker og lister. 
 
 For eksempel kan du representere en person ved hjelp av en ordbok som: <br>
-`{"firstname: "John", "lastname": "Wick", "age": 40}`
+`{"firstname": "John", "lastname": "Wick", "age": 40}`
 
 Eller, hvis du vil ha en liste med personer, kan du plassere personordbøkene i en liste som:
 ```
 [
-    { "firstname: "Sirajuddin", "lastname": "Asjad", "age": 24 },
-    { "firstname: "Daniel", "lastname": "Skryseth", "age": 24 },
-    { "firstname: "Øystein", "lastname": "Nilsen", "age": 24 }
+    { "firstname": "Sirajuddin", "lastname": "Asjad", "age": 24 },
+    { "firstname": "Daniel", "lastname": "Skryseth", "age": 24 },
+    { "firstname": "Øystein", "lastname": "Nilsen", "age": 24 }
 ]
 ```
 
