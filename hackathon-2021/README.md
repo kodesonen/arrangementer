@@ -3,7 +3,7 @@ Velkommen til Kodesonen sitt digitale Hackathon 2021!
 
 Et Hackathon er et arrangement som typisk varer over et par dager, hvor målet er å utvikle velfungerende programvare innenfor ett eller flere av de forhåndsdefinerte temaene til slutt. Dette arbeidet vil så bli vurdert på grunnlag av hvor godt det oppfyller kriteriene bestemt av arrangøren. De som har utviklet det programmet som oppfyller disse kriteriene best, vil motta en større premie. I de siste årene har Hackathons blitt svært vanlig også i Norge, hvor det ofte er ulike bedrifter som arrangerer disse for å tiltrekke seg nyutdannede.
 
-Som deltaker på et Hackathon vil man få mulighet til å lære om nye og spennende teknologier, få erfaring med det å jobbe i team for å løse en større utfordring under tidspress, samt det å komme opp med kreative og innovative løsninger på store utfordringer. 
+Som deltaker på et Hackathon vil man få mulighet til å lære om nye og spennende teknologier, få erfaring med det å jobbe i team for å løse en større utfordring under tidspress, samt det å komme opp med kreative og innovative løsninger på store utfordringer. Deltagelse i et Hackathon er noe som tar seg godt ut på en CV.
 
 ## Hovedtrekk
 
