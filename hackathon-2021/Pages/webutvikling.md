@@ -15,7 +15,7 @@ Vurderingen av websiden er en helhetlig vurdering, det vil si at alle aspekter m
 - Navigasjonsbar
 - Single-Page Application (f.eks. Angular, React eller Vue)
 - Søkemotoroptimalisert
-- Animasjoner
+- Animasjoner (f.eks. CSS animasjoner)
 - Musikk
 - Database
 - Rammeverk for Backend (f.eks. Django, Node.js, .NET, Laravel)
