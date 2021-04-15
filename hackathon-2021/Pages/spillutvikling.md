@@ -1,4 +1,4 @@
-:arrow_left: &nbsp;[Gå tilbake til oversikten](../README.md)
+:arrow_left: &nbsp;[Gå tilbake til oversikten](../)
 
 # Kategori 1 - Spillutvikling
 Data- og videospill er noe de fleste kjenner til i dag, alt fra MMORPG til enkle mobilspill, hver av oss har våre egne preferanser. I denne oppgaven skal du lage et spill akkurat slik du føler for det. Men det er et unntak til dette, nemlig at temaet skal være **Krona på Kongsberg**. Utover dette, står du fritt til å tolke temaet som du vil! 
