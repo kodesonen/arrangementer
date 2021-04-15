@@ -36,7 +36,7 @@ Hvis du ønsker å hente inn ekstra poeng utover en vurdering av det helhetlige,
 - Modeller (3D og 2D)
 - Texture/Materials
 - GUI
-- Particle Effects
+- Particle System
 - Post-Processing
 - Random Generation (+2 poeng)
 
