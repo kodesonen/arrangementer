@@ -9,7 +9,7 @@ Som deltaker på et Hackathon vil man få mulighet til å lære om nye og spenne
 
 Kodesonens Hackathon er et digitalt arrangement som **vil foregå helgen 16. - 18. april**. Som deltaker vil du få servert kodeutfordinger innen web-, spill- og API-utvikling. Dette er en unik mulighet til å tilegne seg ny kunnskap innen svært spennende teknologier, samt å få erfaring innen utvikling av programvare fra start til slutt.
 
-På arrangementet vil man som deltaker få mulighet til å jobbe med utfordringer innen webteknologi slik som det å benyttet API-er i sin egen kode eller det å jobbe med webhooks, og spillutvikling. Det er ingen fasitsvar på hvordan disse utfordringene kan løses, så det er derfor et **stort rom for kreativ tenking og innovasjon**. Utfordringene er dessuten tilpasset studenter fra alle årstrinn og deltakere med ulik grad av kunnskap innen de nevnte teknologiene og programmering generelt. **Studenter kan velge å jobbe alene eller sammen i en gruppe**. Hvis man velger å jobbe som en gruppe, må hver deltager av gruppen levere individuelt.
+På arrangementet vil man som deltaker få mulighet til å jobbe med utfordringer innen webteknologi slik som det å benyttet API-er i sin egen kode eller det å jobbe med webhooks, og spillutvikling. Det er **ingen fasitsvar** på hvordan disse utfordringene kan løses, så det er derfor et **stort rom for kreativ tenking og innovasjon**. Utfordringene er dessuten tilpasset studenter fra alle årstrinn og deltakere med ulik grad av kunnskap innen de nevnte teknologiene og programmering generelt. **Studenter kan velge å jobbe alene eller sammen i en gruppe**. Hvis man velger å jobbe som en gruppe, må hver deltager av gruppen levere individuelt.
 
 Løsningene vil mot slutten av arrangementet bli vurdert av et sett med dommere utifra hvor gode de er både på det tekniske, gjennomførelse, estetikk og design. De med den beste løsningen vil motta en større premie, mens alle som deltar vil motta en mindre gave som takk for sin deltakelse. Deltagelse innebærer at sluttresultatet blir levert.
 
@@ -29,4 +29,6 @@ De topp 3 beste løsningene vil bli premiert med kule premier, mens alle deltake
 
 ## Levering
 
-Løsninger til Hackathonet kan leveres
+Løsninger til Hackathonet kan leveres som et offentlig Github Repository på Google Forms. Hvis du ikke vet hvordan du lager et Repository, anbefales det å lese: https://docs.github.com/en/github/getting-started-with-github/create-a-repo. Hvis du støter på problemer og trenger hjelp til å levere vil Kodesonen sine mentorer være tilgjengelig på Discord hele søndag den 18. april for å hjelpe deg!
+
+### [Lever oppgave](#)
