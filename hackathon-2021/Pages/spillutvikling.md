@@ -3,6 +3,8 @@ Data- og videospill er noe de fleste kjenner til i dag, alt fra MMORPG til enkle
 
 Sjangre innen spill kan være alt fra avanserte simulatorspill som er bygget på matematiske modeller og simulerer fysikk, helt til enkle og morsomme rollespill som kun baserer seg på tekst og valgtre. 
 
+___
+
 Hvilket språk du ønsker å bruke, om det måtte være C#, Python eller et visuelt programmeringsspråk (VPL) er også helt opp til deg. Samme gjelder hvilken spillmotor du ønsker å bruke, som for eksempel Unity, Unreal Engine eller Godot. Om du derimot ikke ønsker å bruke en spillmotor, men heller lage alt fra bunnen av er dette også greit.
 
 Det kan nevnes at Kodesonen sine mentorer har mest erfaring med Unity, så om du ønsker å motta best mulig hjelp fra våre mentorer anbefaler vi Unity med C#.
