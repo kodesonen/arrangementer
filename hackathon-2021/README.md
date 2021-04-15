@@ -19,7 +19,7 @@ Løsningene vil bli vurdert utifra et sett med kriterier av et panel med dommere
 
 ## Kategorier
 
-### [Spillutvikling](/Pages/spillutvikling.md)
+### [Spillutvikling](/Pages/spillutvikling.md)  [Webutvikling](/Pages/webutvikling.md)  [API utvikling](/Pages/api-utvikling.md)
 
 ## Premier
 
