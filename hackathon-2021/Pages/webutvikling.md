@@ -3,7 +3,9 @@
 > A web application is a computer program that utilizes web browsers and web technology to perform tasks over the Internet
 ___
 
-Å lage gode, smarte og velfungerende websider med høyt fokus på brukervennlighet kan være gøy. Det som er enda mer gøy, er å lage en god, velfungerende side som fokuserer på det stikk motsatte! I denne oppgaven skal du lage en webside som skal være så **frustrerende** som mulig, men på en morsom og ufarlig måte. Du vil ha helt frie tøyler, legg så mye eller så lite du vil i det, men husk, det skal fungere og det skal være morsomt!
+Å lage gode, smarte og velfungerende websider med høyt fokus på brukervennlighet kan være gøy. Det som er enda mer gøy, er å lage en god, velfungerende side som fokuserer på det stikk motsatte! I denne oppgaven skal du lage en webside som skal være så **frustrerende** som mulig, men på en morsom og ufarlig måte. 
+
+Du vil ha helt frie tøyler, legg så mye eller så lite du vil i det, men husk, det skal fungere og det skal være morsomt!
 
 ## Vurdering
 
