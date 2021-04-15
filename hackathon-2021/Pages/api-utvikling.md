@@ -1,8 +1,8 @@
 # Kategori 3 - API-utvikling
 ### Introduksjon til API og integrasjonsløsninger
-En API, eller application programming interface, brukes til å sende data fram og tilbake mellom programvareapper på en formalisert måte. For å gjøre det enkelt, kan du beskrive et API som en strukturert måte å overføre data fra ett sted til et annet. 
+Et API, eller application programming interface, brukes til å sende data fram og tilbake mellom programvareapper på en formalisert måte. For å gjøre det enkelt, kan du beskrive et API som en strukturert måte å overføre data fra ett sted til et annet. 
 
-Mange tjenester tilbyr offentlige API-er som tillater at alle kan sende og motta innhold fra tjenesten. API-er som fungerer over Internet med HTTP-URL-er refereres til som nett-API-er. På nettet sender du en forespørsel til en API for å hente og publisere informasjon.
+Mange tjenester tilbyr offentlige API-er som tillater at alle kan sende og motta innhold fra tjenesten. API-er som fungerer over Internet med HTTP-URL-er refereres til som nett-API-er. På nettet sender du en forespørsel til et API for å hente og publisere informasjon.
 
 Alle favorittappene dine som kobler til Internett drives av API-er. For eksempel bruker sosiale medier-apper API-er slik at du kan se og publisere innlegg fra deres mobilapper. Når du oppdaterer strømmen, sender appen en API-forespørsel for å hente alle innleggene. Når du «liker» et innlegg, oppretter appen API-forespørsel om å publisere de dataene.
 
@@ -31,13 +31,13 @@ Lyst til å lese mer om JSON? Besøk https://www.json.org.
 
 # Alternativ 1
 > Vanskelighetsgrad: Enkel
-I denne oppgaven skal du programmere ditt eget hangman-spill, men oppgaven består av noen spesifikke krav. Du får ikke lov til å velge (eller hardkode) dine egne "riktige ord" (fasit-ord), men istedenfor må du bruke vår API for å hente ut et tilfeldig ord som skal brukes som "det riktige ordet" i spillet ditt.
+I denne oppgaven skal du programmere ditt eget hangman-spill, men oppgaven består av noen spesifikke krav. Du får ikke lov til å velge (eller hardkode) dine egne "riktige ord" (fasit-ord), men istedenfor må du bruke vårt API for å hente ut et tilfeldig ord som skal brukes som "det riktige ordet" i spillet ditt.
 
 Altså brukeren skal gjette på det riktige ordet, men dette ordet er hentet fra vår API. Du kan få ord som "kaffe", "sjokolade", "dronesonen", osv. Disse ordene genereres helt tilfeldig. 
 
-Link til API-en vår: https://api.kodesonen.no
+Link til API-et vårt: https://api.kodesonen.no
 
-API-en er under utvikling og vi har større planer for fremtiden. Akkurat nå er API-en veldig enkel og ganske begrenset med tanke på funksjonalitet.
+API-et er under utvikling og vi har større planer for fremtiden. Akkurat nå er API-et veldig enkel og ganske begrenset med tanke på funksjonalitet.
 
 I denne oppgaven trenger du kun å bruke **task=hangman**. Du får returnert et JSON objekt med tre variabler: 
 ```
@@ -46,9 +46,9 @@ Random-word: et tilfeldig ord
 Characters: antall bokstaver i ordet
 ```
 
-Hvis du velger å programmere dette i C++ så kan du få noen tips fra oss. I C++ finnes det veldig mange forskjellige metoder for å lese innhold fra en nettside, men vi anbefaler å bruke \textbf{cURL}. Det kan hende at du må laste ned biblioteket, om det ikke allerede er installert på maskinen din. Les mer om cURL her: \url{https://curl.haxx.se}.
+Hvis du velger å programmere dette i C++ så kan du få noen tips fra oss. I C++ finnes det veldig mange forskjellige metoder for å lese innhold fra en nettside, men vi anbefaler å bruke cURL. Det kan hende at du må laste ned biblioteket, om det ikke allerede er installert på maskinen din. Les mer om cURL her: https://curl.haxx.se.
 
-Når du har lastet ned innholdet fra API-en så ønsker du å behandle denne informasjonen og hente ut informasjon som du kan bruke videre i programmet. Slik det ble nevnt tidligere så anbefaler vi å bruke JSON for å behandle denne dataen. Det kan hende at du må laste ned biblioteket, om det ikke allerede er installert på maskinen din. Isåfall kan det lastes ned her: https://github.com/nlohmann/json.
+Når du har lastet ned innholdet fra API-et så ønsker du å behandle denne informasjonen og hente ut informasjon som du kan bruke videre i programmet. Slik det ble nevnt tidligere så anbefaler vi å bruke JSON for å behandle denne dataen. Det kan hende at du må laste ned biblioteket, om det ikke allerede er installert på maskinen din. Isåfall kan det lastes ned her: https://github.com/nlohmann/json.
 
 Ta en titt på dokumentasjonen til JSON og bruk litt tid på å lese disse lenkene:
 * https://nlohmann.github.io/json
@@ -64,7 +64,7 @@ I dette alternativet er målet å lage et API som beregner antall medlemmer som 
 
 For å lage API-et anbefaler vi å bruke node.js web rammeverket express (JavaScript). Andre alternativer er Django (Python) og .NET-rammeverket til Microsoft (C#).
 
-Når API-et skal testes anbefaler vi å benytte tjenester som Postman og Insomnia. Derimot kan det også testes i en kommandolinje ved bruk av curl.  
+Når API-et skal testes anbefaler vi å benytte tjenester som Postman og Insomnia. Derimot kan det også testes i en kommandolinje ved bruk av cURL.  
 
 ### Vurdering
 
@@ -76,7 +76,7 @@ Oppgaven vil bli vurdert utifra hvor godt den svarer på beskrivelsen, men det v
 - Endre studieretningen til en bruker (**HTTP metode:** PUT).
 - Beregning av prosentandel medlemmer som går data (DATAING) (**HTTP metode:** GET).
 - Slette et spesifikt medlem (**HTTP metode:** DELETE).
-- Returnering av datoene hvert medlem har blitt registrert på (**HTTP metode:** GET). JSON objektet som returneres bør inneholde både hvert medlems brukernavn og registreringsdatoen som "key". Siden flere brukere skal returneres kan JSON Array benyttes.
+- Returnering av datoene hvert medlem har blitt registrert på (**HTTP metode:** GET). JSON objektet som returneres bør inneholde både hvert medlems brukernavn og registreringsdatoen som JSON nøkler. Siden flere brukere skal returneres kan en JSON liste benyttes.
 
 *Hvis du har noen spørsmål eller trenger hjelp, er det bare å ta kontakt på vår Discord-kanal (https://discord.gg/PQQeyFqC).*
 
