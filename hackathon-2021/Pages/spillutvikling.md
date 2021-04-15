@@ -27,7 +27,7 @@ Hvis du ønsker å hente inn ekstra poeng utover en vurdering av det helhetlige,
 
 - Event Triggers
 - NPC
-- Egen AI (+2 poeng)
+- Egen AI
 - Valgtre
 - Egen fysikk
 - Musikk
@@ -38,7 +38,7 @@ Hvis du ønsker å hente inn ekstra poeng utover en vurdering av det helhetlige,
 - GUI
 - Particle System
 - Post-Processing
-- Random Generation (+2 poeng)
+- Random Generation
 
 Hver eneste ting du implementerer legges på topp av den helhetlige vurderingen som et poeng. Det vil si at om du for eksempel har implementert lydeffekt, så vil du kun få et poeng uavhengig av hvor mange lydeffekter du har brukt. 
 
