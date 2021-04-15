@@ -33,6 +33,7 @@ Lyst til å lese mer om JSON? Besøk https://www.json.org.
 
 # Alternativ 1
 > Vanskelighetsgrad: Enkel
+
 I denne oppgaven skal du programmere ditt eget hangman-spill, men oppgaven består av noen spesifikke krav. Du får ikke lov til å velge (eller hardkode) dine egne "riktige ord" (fasit-ord), men istedenfor må du bruke vårt API for å hente ut et tilfeldig ord som skal brukes som "det riktige ordet" i spillet ditt.
 
 Altså brukeren skal gjette på det riktige ordet, men dette ordet er hentet fra vår API. Du kan få ord som "kaffe", "sjokolade", "dronesonen", osv. Disse ordene genereres helt tilfeldig. 
