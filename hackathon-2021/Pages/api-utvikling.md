@@ -57,7 +57,7 @@ Ta en titt på dokumentasjonen til JSON og bruk litt tid på å lese disse lenke
 
 Spør oss om du sitter fast! Dette skal være en gøy oppgave og vi er her for å hjelpe dere!
 
-## Alternativ 2
+# Alternativ 2
 > Vanskelighetsgrad: Avansert
 
 I dette alternativet er målet å lage et API som beregner antall medlemmer som er registert på Kodesonen. API-et skal gjennomføre beregningen ved forspørsel fra en bruker via HTTP metoden "GET" og sende resultatet i JSON format tilbake. Du har tilgang på et diagram som viser en oversikt over MySQL tabellen som skal brukes for å løse oppgaven. I tillegg har du tilgang til en sql-fil som du kan benytte til å bygge databasen på din lokale maskin for å teste funsksjonaliteten til API-et.
