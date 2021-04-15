@@ -27,6 +27,10 @@ Løsningene vil bli vurdert utifra et sett med kriterier av et panel med dommere
 
 De topp 3 beste løsningene vil bli premiert med kule premier, mens alle deltakerne vil motta en mindre gave og et diplom som en takk for sin deltakelse.
 
+## Discord
+
+Placeholder
+
 ## Levering
 
 Løsninger til Hackathonet kan leveres som et offentlig Github Repository på Google Forms. Hvis du ikke vet hvordan du lager et Repository, anbefales det å lese: https://docs.github.com/en/github/getting-started-with-github/create-a-repo. Hvis du får problemer og trenger hjelp til å levere vil Kodesonen sine mentorer være tilgjengelig på Discord hele søndag den 18. april for å hjelpe deg!
