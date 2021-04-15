@@ -42,4 +42,6 @@ Hvis du ønsker å hente inn ekstra poeng utover en vurdering av det helhetlige,
 
 Hver eneste ting du implementerer legges på topp av den helhetlige vurderingen som et poeng. Det vil si at om du for eksempel har implementert lydeffekt, så vil du kun få et poeng uavhengig av hvor mange lydeffekter du har brukt. 
 
-Hvis du har noen spørsmål eller trenger hjelp, kan du benytte deg av lydrommet og samtalerommet på Discord under Hackathon. Vi gleder oss til å se hva nettopp du lager. Lykke til!
+Hvis du har noen spørsmål eller trenger hjelp, kan du benytte deg av lydrommet og samtalerommet på Discord under Hackathon. Er du ikke medlem på Discord allerede, så kan du bli medlem på https://kodesonen.no/discord. 
+
+**Vi gleder oss til å se hva nettopp du lager. Lykke til!**
