@@ -35,4 +35,4 @@ På vår Discord https://kodesonen.no/discord tilbyr vi både kodehjelp og et di
 
 Løsninger til Hackathonet kan leveres som et offentlig Github Repository på Google Forms. Hvis du ikke vet hvordan du lager et Repository, anbefales det å lese: https://docs.github.com/en/github/getting-started-with-github/create-a-repo. Hvis du får problemer og trenger hjelp til å levere vil Kodesonen sine mentorer være tilgjengelig på Discord hele søndag den 18. april for å hjelpe deg!
 
-### :link: [Lever oppgave](#)
+### :link: [Lever oppgave](https://kodesonen.no/hackathon/levering)
