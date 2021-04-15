@@ -1,4 +1,4 @@
-:arrow_left: &nbsp;[Gå tilbake til oversikten](../README.md)
+:arrow_left: &nbsp;[Gå tilbake til oversikten](../)
 
 # Kategori 3 - API-utvikling
 ### Introduksjon til API og integrasjonsløsninger
