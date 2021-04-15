@@ -16,7 +16,7 @@ Løsningene vil mot slutten av arrangementet bli vurdert av et sett med dommere 
 
 ## Kategorier
 
-### [Spillutvikling](/Pages/spillutvikling.md)
+### :computer: [Spillutvikling](/Pages/spillutvikling.md)
 ### [Webutvikling](/Pages/webutvikling.md) 
 ### [API utvikling](/Pages/api-utvikling.md)
 
