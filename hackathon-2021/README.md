@@ -13,15 +13,16 @@ På arrangementet vil man som deltaker få mulighet til å jobbe med utfordringe
 
 Løsningene vil mot slutten av arrangementet bli vurdert av et sett med dommere utifra hvor gode de er både på det tekniske, gjennomførelse, estetikk og design. De med den beste løsningen vil motta en større premie, mens alle som deltar vil motta en mindre gave som takk for sin deltakelse.
 
-## Vurdering
-
-Løsningene vil bli vurdert utifra et sett med kriterier av et panel med dommere. Disse kriteriene omhandler de tekniske aspektene, gjennomførelse, design og estetikk. Det vil totalt bli annonsert tre vinnere for beste løsning innen tre ulike kategorier. 
 
 ## Kategorier
 
 ### [Spillutvikling](/Pages/spillutvikling.md)
 ### [Webutvikling](/Pages/webutvikling.md) 
 ### [API utvikling](/Pages/api-utvikling.md)
+
+## Vurdering
+
+Løsningene vil bli vurdert utifra et sett med kriterier av et panel med dommere. Disse kriteriene omhandler de tekniske aspektene, gjennomførelse, design og estetikk. Det vil totalt bli annonsert tre vinnere for beste løsning innen tre ulike kategorier. 
 
 ## Premier
 
