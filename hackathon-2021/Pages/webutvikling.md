@@ -13,12 +13,12 @@ Vurderingen av websiden er en helhetlig vurdering, det vil si at alle aspekter m
 
 - Autentisering/login
 - Navigasjonsbar
-- Single-page application (eks. angular, react eller vue)
+- Single-Page Application (f.eks. Angular, React eller Vue)
 - Søkemotoroptimalisert
 - Animasjoner
 - Musikk
 - Database
-- Rammeverk for backend (eks. Django, Node.js, .NET, Laravel)
+- Rammeverk for Backend (f.eks. Django, Node.js, .NET, Laravel)
 
 Hver eneste ting du implementerer legges på topp av den helhetlige vurderingen som et poeng. Det vil si at om du for eksempel har implementert en navigasjonsbar, så vil du kun få et poeng uavhengig av hvor mange navigasjonsbarer du har brukt. 
 
