@@ -33,6 +33,6 @@ På vår Discord https://kodesonen.no/discord tilbyr vi både kodehjelp og et di
 
 ## Levering
 
-Løsninger til Hackathonet leveres som et offentlig Github Repository. Hvis du ikke vet hvordan du lager et Repository, anbefales det å lese: https://docs.github.com/en/github/getting-started-with-github/quickstart. Får du problemer og trenger hjelp til å levere vil Kodesonen sine mentorer være tilgjengelig på Discord hele søndag den 18. april for å hjelpe deg!
+Løsninger til Hackathonet leveres som et offentlig GitHub Repository. Hvis du ikke vet hvordan du lager en repository, anbefales det å lese: https://docs.github.com/en/github/getting-started-with-github/quickstart. Får du problemer og trenger hjelp til å levere vil Kodesonen sine mentorer være tilgjengelig på Discord for å hjelpe deg!
 
 ### :link: [Lever oppgave](https://kodesonen.no/hackathon/levering)
