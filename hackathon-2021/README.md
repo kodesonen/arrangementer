@@ -11,7 +11,7 @@ Kodesonens Hackathon er et digitalt arrangement som **vil foregå helgen 16. - 1
 
 På arrangementet vil man som deltaker få mulighet til å jobbe med utfordringer innen webteknologi slik som det å benyttet API-er i sin egen kode eller det å jobbe med webhooks, og spillutvikling. Det er **ingen fasitsvar** på hvordan disse utfordringene kan løses, så det er derfor et **stort rom for kreativ tenking og innovasjon**. Utfordringene er dessuten tilpasset studenter fra alle årstrinn og deltagere med ulik grad av kunnskap innen de nevnte teknologiene og programmering generelt. **Studenter kan velge å jobbe alene eller sammen i en gruppe**. Hvis man velger å jobbe som en gruppe, må hver deltager av gruppen levere individuelt.
 
-Løsningene vil mot slutten av arrangementet bli vurdert av et sett med dommere utifra hvor gode de er både på det tekniske, gjennomførelse, estetikk og design. De med den beste løsningen vil motta en større premie, mens alle som deltar vil motta en mindre gave som takk for sin deltagelse. Deltagelse innebærer at sluttresultatet blir levert.
+Løsningene vil mot slutten av arrangementet bli vurdert av et sett med dommere utifra hvor gode de er på det tekniske, gjennomførelse, estetikk og design. De med den beste løsningen vil motta en større premie, mens alle som deltar vil motta en mindre gave som takk for sin deltagelse. Deltagelse innebærer at sluttresultatet blir levert.
 
 
 ## Kategorier
