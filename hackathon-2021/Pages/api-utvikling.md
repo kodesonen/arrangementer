@@ -81,6 +81,6 @@ Oppgaven vil bli vurdert utifra hvor godt den svarer på beskrivelsen, men det v
 - Slette et spesifikt medlem (**HTTP metode:** DELETE).
 - Returnering av datoene hvert medlem har blitt registrert på (**HTTP metode:** GET). JSON objektet som returneres bør inneholde både hvert medlems brukernavn og registreringsdatoen som JSON nøkler. Siden flere brukere skal returneres kan en JSON liste benyttes.
 
-*Hvis du har noen spørsmål eller trenger hjelp, er det bare å ta kontakt på vår Discord-kanal (https://discord.gg/PQQeyFqC).*
+Hvis du har noen spørsmål eller trenger hjelp, kan du benytte deg av lydrommet og samtalerommet på Discord under Hackathon. Er du ikke medlem på Discord allerede, så kan du bli medlem på https://kodesonen.no/discord. 
 
-Lykke til!
+**Vi gleder oss til å se hva nettopp du lager. Lykke til!**
