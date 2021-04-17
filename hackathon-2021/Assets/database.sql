@@ -17,8 +17,6 @@ CREATE TABLE `medlemmer`
  `foedselsaar` int(4) NOT NULL,
 
 PRIMARY KEY (`id`),
-KEY `ind_15` (`id`),
- CONSTRAINT `check_17` CHECK (  )
 ) ENGINE=INNODB;
 
 INSERT INTO `medlemmer` (`id`, `navn`, `epost`, `studie`, `grad`, `admin`, `passord`, `regdato`, `foedselsaar`) VALUES
