@@ -2,9 +2,9 @@
 
 ## SPILL
 https://github.com/Luucid/Hackathon21
-Jeg likte veldig godt storyen til spillet. Likte at du fikk en egen flyve animasjon og er veldig imponert over hva du har fått til i løpet av en helg!
-Men det mest imponerende og kule med spillet var nok procedural generation, veldig kult!
-Hadde vært gøy å sett deg gjøre ferdig spillet!
+> Jeg likte veldig godt storyen til spillet. Likte at du fikk en egen flyve animasjon og er veldig imponert over hva du har fått til i løpet av en helg!
+> Men det mest imponerende og kule med spillet var nok procedural generation, veldig kult!
+> Hadde vært gøy å sett deg gjøre ferdig spillet!
 
 ## WEB
 https://github.com/tamannarahman97/probusiness
