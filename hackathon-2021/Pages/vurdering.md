@@ -2,7 +2,8 @@
 Vi har gått igjennom og vurdert alle innleveringer og har valgt å legge ut tilbakemelding og kommentarer til topp 5 innleveringer. 
 
 ## Spillutvikling 
-Innlevering 1 - Link: https://github.com/Luucid/Hackathon21
+### Innlevering 1
+Link: https://github.com/Luucid/Hackathon21
 > Et kult lite spill med en god dose kreativitet! Fortellingen treffer godt og det ser ut som om mye av funksjonaliteten til spillet allerede er implementert. Om det hadde blitt lagt til noe fiendtlig og en liten utvidelse på den tilfeldige generasjonen av verden, ville det nesten vært et ferdig spill! Sett ut ifra at det ville vært mulig å plukket opp sølv og dermed få en poengsum. Vi liker at du fikk en egen flyve animasjon og er veldig imponert over hva du har fått til i løpet av en helg! Men det mest imponerende og kule med spillet var nok procedural generation, veldig kult! 
 > 
 > For eksempel, hvis spillet hadde hatt fiendtlige NPC'er og en evig tilfedig generasjon av verden (f.eks. vertikalt nedover). Hvor det var slik at de fiendtlige NPC'ene la press på spilleren i henhold til hvordan spilleren selv valgte å manipulere gruven (med at blokkene er ødeleggbare). Samt at spilleren vil opparbeide seg en poengsum utifra hvor mye sølv spilleren klarer å plukke opp (kanskje til og med en high score?). 
@@ -10,14 +11,16 @@ Innlevering 1 - Link: https://github.com/Luucid/Hackathon21
 > Det er også flott å se at det har blitt lagt til ekstra funksjoner utover dette: animasjon på karakteren, en god karakterkontroller, textures, et prosjektil med et partikkelsystem som kan skytes, osv. Vi i Kodesonen synes faktisk det hadde vært kult å sett spillet bli ferdig fremstilt! Kanskje gjort det om til en liten mobilapp eller PC spill og fått gitt det ut? Utover dette håper vi på at du har hatt det morsomt, lært mye og fått sansen for Hackathons!
 
 ## Webutvikling
-Innlevering 1 - Link: https://github.com/tamannarahman97/probusiness
+### Innlevering 1
+Link: https://github.com/tamannarahman97/probusiness
 > Veldig bra at dere har dannet en gruppe og jobbet sammen med dette. Tips til neste gang: når det er gruppeprosjekt er det lurt at flere i gruppa lager commits slik at det er lettere å se hvem som har jobbet med hva. 
 > Veldig kul oppgave, bra vi ikke hadde på høyttaler da vi gikk på siden og esel lyden begynte å spille hahah.
 > Fortsett å jobb med prosjekter som dette på fritiden, det er vi helt sikkert på at arbeidsgiver setter pris på
 > samtidig tar det seg veldig bra ut når dere søker jobb!
 > Vil også anbefale dere å gå bort i fra templates å prøve å utvikle noe helt fra bunnen av.
 
-Innlevering 2 - Link: https://github.com/Kaktusgutten/html-Hachkathon-2021
+### Innlevering 2
+Link: https://github.com/Kaktusgutten/html-Hachkathon-2021
 > Veldig artig side! Du har tatt i bruk både, css, html og javascript!
 > Det som tok kaka var at du lærte deg html, css og javascript samme dag som hackathon startet!
 > Vil gjerne se deg jobbe mer med teknologien og  prøve deg med ny teknologi og databaser.
