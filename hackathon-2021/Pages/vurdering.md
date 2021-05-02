@@ -1,14 +1,44 @@
 # Vurdering av topp 5 innleveringer
-Work in progress
 
-Innlevering 1 - https://gitlab.com/arivarton/hackathon2021
+## SPILL
+https://github.com/Luucid/Hackathon21
+Jeg likte veldig godt storyen til spillet. Likte at du fikk en egen flyve animasjon og er veldig imponert over hva du har fått til i løpet av en helg!
+Men det mest imponerende og kule med spillet var nok procedural generation, veldig kult!
+Hadde vært gøy å sett deg gjøre ferdig spillet!
 
-Liker veldig godt hvor organisert prosjektet er med en veldig bra skrevet README. Det fine er at alle curl-kommandoene som må brukes for testing er listet opp, og at du har lagt til pip og python kommandoene som må til for å kunne benytte seg av API-et. 
+## WEB
+https://github.com/tamannarahman97/probusiness
+> Dette er den eneste innleveringen vi fikk hvor to stykker ser ut til å ha jobbet med prosjektet.
+> Det som er snodig er at det er bare en som har commitet i github repoet. Hvordan ble dette gjort?
+> 
+> Veldig kul oppgave, bra jeg ikke hadde på høyttaler da jeg gikk på siden og esel lyden begynte å spille hahah.
+> Fortsett å jobb med prosjekter som dette på fritiden, det er jeg helt sikkert på at arbeidsgiver setter pris på
+> samtidig tar det seg veldig bra ut når dere søker jobb!
+> Vil også anbefale dere å gå bort i fra templates å prøve å utvikle noe helt fra bunnen av.
 
-Jeg liker også at du har svart på omtrent alle deloppgavene, i tillegg til litt ekstra. Her refererer jeg til at du har benyttet token-autentisering for de kritiske API-kallene som oppdatering av medlemsinformasjon og sletting av brukere. Dette er et svært bra og fornuftig valg med tanke på sikkerhet. Det er dessuten veldig bra at du har fått lagt til validering av input og forklarende API-responser ved både riktige og gale API-kall. 
+## WEB
+https://github.com/Kaktusgutten/html-Hachkathon-2021
+> Veldig artig side! Du har tatt i bruk både, css, html og javascript!
+> Det som tok kaka var at du lærte deg html, css og javascript samme dag som hackathon startet!
+> Vil gjerne se deg jobbe mer med teknologien og  prøve deg med ny teknologi og databaser.
 
-Det eneste jeg savner ved denne besvarelsen er en OpenAPI spesifikasjon av API-et. Dette er en veldig bra måte å dokumentere et API på. Swagger.io er et populært verktøy som kan brukes for dette.
 
-Alt i alt er dette et kjempebra API. Veldig bra jobba!
+## API
+https://github.com/jorri11/APIOppgave2
+> Dette er det eneste prosjektet bygget på en .NET backend, det liker jeg veldig godt
+> av flere grunner. Blant annet er det veldig poppulært i Norge når du skal søke jobb
+> også jobber jeg med det :slight_smile:
+> 
+> Jeg vil anbefale deg å bruke entity framework neste gang du jobber med databaser, det var
+> relativt vanskelig å ordne database å teste prosjektet. Ellers kunne du også ha skrevet mer
+> utfyllende readme når det kommer til installasjon.
+> 
+> Igjen, veldig kult at du bruker .NET, fortsett med det, regner med du står høyt på listen
+> når du skal søker utvikler jobb!
 
-P.S. Jeg vet ikke om du benytter «basic» eller «bearer» autentisering, men hvis du ikke vet om det allerede så bør du absolutt ta en titt på JWT en gang. Dette er en veldig sikker og populær metode for autentisering med tokens. I dette tilfellet vil man i HTTP-headeren skrive følgende: «Authorization: Bearer [jwt_token]».
+## API
+https://gitlab.com/arivarton/hackathon2021
+Veldig kult at du bruker django her! Readme'en din var helt klart den beste readme av alle innleveringene.
+Jeg har ikke veldig mye å kommentere på her, men har du jobbet eller jobber du som utvikler? Hvis ikke ville jeg anbefalt deg å begynne å søke jobb
+du ser ut til å være veldig god i faget!
+Vil også anbefale deg å ta en kikk på .NET som er veldig poppulært i norge.
