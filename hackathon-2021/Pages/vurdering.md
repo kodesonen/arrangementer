@@ -6,6 +6,16 @@ https://github.com/Luucid/Hackathon21
 > Men det mest imponerende og kule med spillet var nok procedural generation, veldig kult!
 > Hadde vært gøy å sett deg gjøre ferdig spillet!
 
+## SPILL 2
+
+Et kult lite spill med en god dose kreativitet! Fortellingen treffer godt og det ser ut som om mye av funksjonaliteten til spillet allerede er implementert. Om det hadde blitt lagt til noe fiendtlig og en liten utvidelse på den tilfeldige generasjonen av verden, ville det nesten vært et ferdig spill! Sett ut ifra at det ville vært mulig å plukket opp sølv og dermed få en poengsum. 
+
+For eksempel, hvis spillet hadde hatt fiendtlige NPC'er og en evig tilfedig generasjon av verden (f.eks. vertikalt nedover). Hvor det var slik at de fiendtlige NPC'ene la press på spilleren i henhold til hvordan spilleren selv valgte å manipulere gruven (med at blokkene er ødeleggbare). Samt at spilleren vil opparbeide seg en poengsum utifra hvor mye sølv spilleren klarer å plukke opp (kanskje til og med en high score?).
+
+Det er også flott å se at det har blitt lagt til ekstra funksjoner utover dette: animasjon på karakteren, en god karakterkontroller, textures, et prosjektil med et partikkelsystem som kan skytes, osv. Vi i Kodesonen synes faktisk det hadde vært kult å sett spillet bli ferdig fremstilt! Kanskje gjort det om til en liten mobilapp eller PC spill og fått gitt det ut? 
+
+Utover dette håper vi på at du har hatt det morsomt, lært mye og fått sansen for Hackathons!
+
 ## WEB
 https://github.com/tamannarahman97/probusiness
 > Dette er den eneste innleveringen vi fikk hvor to stykker ser ut til å ha jobbet med prosjektet.
