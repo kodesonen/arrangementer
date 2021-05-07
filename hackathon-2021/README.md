@@ -33,6 +33,7 @@ Løsninger til Hackathonet leveres som et offentlig GitHub Repository. Hvis du i
 ### :link: [Lever oppgave](https://kodesonen.no/hackathon/levering)
 
 ## Vinnere
+Vurdering av alle innleverte prosjekter er fullført og vi har valgt tre vinnere:
 * Spillutvikling: Jørgen Søbstad
 * Webutvikling: Tamanna Rahman og Meimona Hakim
 * API-utvikling: Andri Vidar Tryggvason
