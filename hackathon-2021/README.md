@@ -31,3 +31,10 @@ På vår Discord https://kodesonen.no/discord tilbyr vi både kodehjelp og et di
 Løsninger til Hackathonet leveres som et offentlig GitHub Repository. Hvis du ikke vet hvordan du lager et repository, anbefales det å lese: https://docs.github.com/en/github/getting-started-with-github/quickstart. Får du problemer og trenger hjelp til å levere vil Kodesonen sine mentorer være tilgjengelig på Discord for å hjelpe deg!
 
 ### :link: [Lever oppgave](https://kodesonen.no/hackathon/levering)
+
+## Vinnere
+* Spillutvikling: Jørgen Søbstad
+* Webutvikling: Tamanna Rahman og Meimona Hakim
+* API-utvikling: Andri Vidar Tryggvason
+
+[Klikk her for å lese vurdering av topp 5 innleveringer](Pages/vurdering.md)
