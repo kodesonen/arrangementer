@@ -1,3 +1,5 @@
+:arrow_left: &nbsp;[Gå tilbake til oversikten](../)
+
 # Vurdering av topp 5 innleveringer
 Vi har gått igjennom og vurdert alle innleveringer og har valgt å legge ut tilbakemelding og kommentarer til topp 5 innleveringer. 
 
