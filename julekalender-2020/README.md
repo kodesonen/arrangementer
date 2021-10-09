@@ -121,7 +121,7 @@ end Behavioral
 ### Luke 10 ###
 
 NOR Latch: Hva blir Q når reset = 0 og set = 1?
-![b1e1be14ce018a8151642ef34e16467d](https://user-images.githubusercontent.com/15195014/136663139-e0305dc2-faed-424c-8e64-ca9a5468d731.png)
+![85566b0570cd8c5a342a39b6c7d66b11](https://user-images.githubusercontent.com/15195014/136664231-12f6d5a4-60e8-4a8b-bb10-1d279fc2d8a2.png)
 
 **Svar:**
 
