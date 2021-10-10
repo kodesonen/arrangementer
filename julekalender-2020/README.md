@@ -44,7 +44,7 @@ PHP
 
 **Svar:**
 1. Feil *operator* blir brukt. Det riktige ville vært å ha brukt en *equality operator* (`==`), ikke en *assignment operator* (`=`). 
-2. 
+2. Feil syntaks på *OR operator*, denne skulle ha vært `||` ikke `|`.
 
  - - - -
 
@@ -165,7 +165,7 @@ Her var hintet "naIfMJql+UD=" en ROT13 kode som dekodes til en Base64 kode som d
 
 **Svar:**
 ```php
-echo $txt
+echo $txt;
 ```
 
  - - - -
@@ -290,7 +290,7 @@ void printAlleTallDeretterAlleParviseSummer(int arr[], int size)
 ```
 
 **Svar:**
-Først `for-loop` er O(n) og de andre *nested* `for-loop`'ene blir til sammen O(n^2).
+Første `for-loop` er O(n) og de andre *nested* `for-loop`'ene blir til sammen O(n^2).
 
 Resultatet er dermed O(n^2).
 
