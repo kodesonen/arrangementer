@@ -175,7 +175,7 @@ echo $txt;
 > I C++ er det både vektor og array. Hva er forskjellen mellom disse to når det kommer til lengde?
 
 **Svar:**
-
+En `std::vector` i C++ er en dynamisk datastruktur som er basert på heap-allokert minne, noe som vil si at en vektor sin *length* er avhengig av minnet. Et `array` derimot, vil være basert på stack-allokert minne og er dermed av *fixed size*. 
 
  - - - -
 
@@ -193,7 +193,7 @@ echo $txt;
 > Hva er forskjellen mellom phishing og spear phishing?
 
 **Svar:**
-
+Spear phishing er målrettet phishing. Andre typiske phishing kampanjer pleier ikke å være målrettet mot individuelle ofre.
 
  - - - -
 
