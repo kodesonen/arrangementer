@@ -72,9 +72,9 @@ int main()
 ```
 
 **Svar:**
-1.
-2.
-3.
+1. `std::in` er feil syntaks, det riktige er `std::cin`.
+2. `sort(v)` er ikke riktig. For å bruke `std::sort()` må det omskrives til `std::sort(v.begin(), v.end())`.
+3. For-loop deklarer ikke datatypen til `i`, det riktige vil være `for(int i = 0; i < v.size(); i++)`
 
  - - - -
 
