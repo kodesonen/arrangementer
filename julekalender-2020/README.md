@@ -1,6 +1,12 @@
 # Julekalender 2020
 
-Kodesonen arrangerte egen julekalender for julen 2020, hvor det for hver dag be lagt ut en utfordring, en såkalt luke, som ville kunne gi ett poeng ved riktig svar. Poeng ble samlet opp og virket som ett lodd i hatten, hvor en til slutt ville kunne vinne en premie. Vanskelighetsgraden på hver luke varierte fra dag til dag, noen oppgaver var enkle og andre oppgaver kanskje litt mer utfordrende.
+Kodesonen arrangerte egen julekalender for julen 2020, for julen se arrangmentet [julekalender 2021](https://github.com/kodesonen/arrangementer/tree/main/julekalender-2021). Det ble lagt ut en unik utfordring for hver dag, en såkalt luke, som ville kunne gi ett poeng ved riktig svar. Poeng ble samlet opp og virket som ett lodd i hatten, hvor en til slutt ville kunne vinne en premie for hver uke. Vanskelighetsgraden på hver luke varierte fra dag til dag, noen oppgaver var enkle og andre oppgaver kanskje litt mer utfordrende.
+
+**Premier:**
+- Uke 1: Kodesonen hettegenser
+- Uke 2: Kodesonen t-skjorte og flaske
+- Uke 3: Kodesonen hettegenser
+- Uke 4: Kodesonen t-skjorte, flakse og en pose Twist
 
  - - - -
 
@@ -304,7 +310,7 @@ Resultatet er dermed O(n^2).
 > Det finnes hovedsaklig tre regler for normalisering av en database. Hva heter disse, og hva innebærer de?
 
 **Svar:**
-1-3 normalform (ofte beskrevet som 1NF, 2NF og 3NF). De er teknikker for hvordan man kan designe tabeller i en relasjonsdatabase, uten for mye overflødige data.
+1-3 normalform (ofte beskrevet som 1NF, 2NF og 3NF). De er teknikker for hvordan en kan designe tabeller i en relasjonsdatabase, uten for mye overflødige data.
 
  - - - -
 
