@@ -301,7 +301,7 @@ Resultatet er dermed O(n^2).
 > Det finnes hovedsaklig tre regler for normalisering av en database. Hva heter disse, og hva innebærer de?
 
 **Svar:**
-
+1-3 normalform (ofte beskrevet som 1NF, 2NF og 3NF). De er teknikker for hvordan man kan designe tabeller i en relasjonsdatabase, uten for mye overflødige data.
 
  - - - -
 
