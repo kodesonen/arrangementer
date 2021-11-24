@@ -244,7 +244,9 @@ Symmetrisk
 > Hvilke to kommandoer benyttes til å vise status på aktive prosesser i Linux?
 
 **Svar:**
-
+```bash
+$ 
+```
  - - - -
 
 ### Luke 21 ###
