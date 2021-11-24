@@ -1,6 +1,6 @@
 # Julekalender 2020
 
-Kodesonen arrangerte egen julekalender for julen 2020, for julen se arrangmentet [julekalender 2021](https://github.com/kodesonen/arrangementer/tree/main/julekalender-2021). 
+Kodesonen arrangerte egen julekalender for julen 2020, for julen 2021 se arrangmentet [julekalender 2021](https://github.com/kodesonen/arrangementer/tree/main/julekalender-2021). 
 
 Det ble lagt ut en unik utfordring for hver dag, en såkalt luke, som ville kunne gi ett poeng ved riktig svar. Poeng ble samlet opp og virket som ett lodd i hatten, hvor en til slutt ville kunne vinne en premie for hver uke. Vanskelighetsgraden på hver luke varierte fra dag til dag, noen oppgaver var enkle og andre oppgaver kanskje litt mer utfordrende.
 
