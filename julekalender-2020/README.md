@@ -245,7 +245,8 @@ Symmetrisk
 
 **Svar:**
 ```bash
-$ 
+$ <1 kommando her>
+$ <2 kommando her>
 ```
  - - - -
 
