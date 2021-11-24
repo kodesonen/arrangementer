@@ -98,10 +98,10 @@ Heartbleed
 ### Luke 6 ###
 
 > Oppgave: https://pastebin.com/9jhgJyUv
-> Hint: #5 = 2a8a812400df8963b2e2ac0ed01b07b8
+> Hint: `#5 = 2a8a812400df8963b2e2ac0ed01b07b8`
 
 **Svar:**
-Pastebin linken ledet til en passordbeskyttet Pastebin. Hintet som ble gitt hintet om at chifferet var et MD5 hash digest. Ved hjelp av et online Rainbow Table kunne en finne ut at MD5 hashet var "2231", noe som også var passordet til Pastebin linken. Etter å tastet inn passordet og fått tilgang ble en møtt med et Pastebin som bestod av binære verdier. Ved å gjøre om de binære tallene om til tekst (ASCII/UTF-8) fikk en meldingen "finner du ut av min hemmelighet? Den er: amVnIGVyIGdsYWQgZGV0IHNuYXJ0IGVyIGp1bGVmZXJpZQ==". Siste verdiene i teksten var Base64 kodet og ble dekodet til: "jeg er glad det snart er juleferie", som var svaret på luken!
+Pastebin linken ledet til en passordbeskyttet Pastebin. Hintet som ble gitt hintet om at chifferet var et MD5 hash digest. Ved hjelp av et online Rainbow Table kunne en finne ut at MD5 hashet var `2231`, noe som også var passordet til Pastebin linken. Etter å tastet inn passordet og fått tilgang ble en møtt med et Pastebin som bestod av binære verdier. Ved å gjøre om de binære tallene om til tekst (ASCII/UTF-8) fikk en meldingen "finner du ut av min hemmelighet? Den er: `amVnIGVyIGdsYWQgZGV0IHNuYXJ0IGVyIGp1bGVmZXJpZQ==`". Siste verdiene i teksten var Base64 kodet og ble dekodet til: "jeg er glad det snart er juleferie", som var svaret på luken!
 
  - - - -
 
@@ -158,10 +158,10 @@ end Behavioral
 ### Luke 11 ###
 
 > Hvis du forteller en mattemagiker at kvadrat ROTen til 13 helt grunnleggende er 64. Hva vil han tro at hjernen din består av?
-> Hint: naIfMJql+UD=
+> Hint: `naIfMJql+UD=`
 
 **Svar:**
-Her var hintet "naIfMJql+UD=" en ROT13 kode som dekodes til en Base64 kode som dekodes til "julegrøt".
+Her var hintet `naIfMJql+UD=` en ROT13 kode som dekodes til en Base64 kode som dekodes til "julegrøt".
 
  - - - -
 
