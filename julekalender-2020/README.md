@@ -184,7 +184,7 @@ En `std::vector` i C++ er en dynamisk datastruktur som er basert på heap-alloke
 > En blokk størrelse på 128 bit. Hvilke mulige størrelser er det på nøklene i AES algoritmen?
 
 **Svar:**
-
+128, 192 eller 256 bits.
 
  - - - -
 
