@@ -18,3 +18,24 @@ For julen 2020 se arrangmentet [julekalender 2020](https://github.com/kodesonen/
 Kommer etter julekalender 2021 er ferdig!
 
  - - - -
+ 
+ 
+### Luke 2 ###
+
+> Hva er funksjonens Big O notasjon?
+```cpp
+function BigO(n) {
+ count = 0;
+ for(int i = 0; i < n; i++) {
+  for(int j = 0; j < n; j++) {
+    count++;
+   }
+ }
+ return count;
+}
+```
+
+**Svar:**
+Kommer
+
+ - - - -
