@@ -25,9 +25,9 @@ Kommer etter julekalender 2021 er ferdig!
 > Hva er funksjonens Big O notasjon?
 ```javascript
 function BigO(n) {
- count = 0;
- for(i = 0; i < n; i++) {
-  for(j = 0; j < n; j++) {
+ let count = 0;
+ for(let i = 0; i < n; i++) {
+  for(let j = 0; j < n; j++) {
     // console.log(i, j);
     count++;
    }
