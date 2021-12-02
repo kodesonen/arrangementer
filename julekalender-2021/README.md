@@ -23,11 +23,12 @@ Kommer etter julekalender 2021 er ferdig!
 ### Luke 2 ###
 
 > Hva er funksjonens Big O notasjon?
-```cpp
+```javascript
 function BigO(n) {
  count = 0;
- for(int i = 0; i < n; i++) {
-  for(int j = 0; j < n; j++) {
+ for(i = 0; i < n; i++) {
+  for(j = 0; j < n; j++) {
+    // console.log(i, j);
     count++;
    }
  }
