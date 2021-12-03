@@ -19,7 +19,6 @@ Kommer etter julekalender 2021 er ferdig!
 
  - - - -
  
- 
 ### Luke 2 ###
 
 > Hva er funksjonens Big O notasjon?
@@ -37,6 +36,13 @@ function BigO(n) {
 ```
 
 **Svar:**
-Kommer
+
+ - - - -
+ 
+### Luke 3 ###
+
+> Hvordan kan du legge til to tall uten å bruke addisjonsoperator?
+
+**Svar:**
 
  - - - -
