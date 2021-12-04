@@ -46,3 +46,19 @@ function BigO(n) {
 **Svar:**
 
  - - - -
+### Luke 15 ###
+> Jeg er på jakt etter en populær unix kommando som lar meg slette en folder og alt som er i den. Jeg er i tillegg litt lat, så jeg ønsker å slippe å bekrefte min handling. Hva er kommandoen og hva må jeg passe på når jeg bruker den? 
+
+
+**Svar:** 
+> Kommando: rm -rf /path/to/directory eller rm -rf directory etc 
+
+> Pass på :rm -rf / som root sletter alt
+
+- - - -
+### Luke 17 ###
+> Jeg elsker Matryoshka dukker. De er så kule! Det er jo som et mappe heirarki ! Hvis jeg vil lage en Matryoshka dukke lignende mappe struktur hvor den øverste mappen heter oldemor og den innerste søster (med bestemor og mor i mellom). Hvilken unix kommando kan jeg bruke ? Så lat som jeg er, ønsker jeg kun å bruke en kommando, og ingen piping! (I.e ingen bruke av | ). 
+
+**Svar:** 
+> mkdir {Oldemor,bestemor,mor,søster}
+- - - -
