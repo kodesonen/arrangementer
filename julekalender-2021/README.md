@@ -75,7 +75,9 @@ function BigO(n) {
 
 
 **Svar:** 
-Kommando: rm -rf /path/to/directory eller rm -rf directory etc 
+Kommando: 
+
+rm -rf /path/to/directory eller rm -rf directory etc.
 
 Pass på :rm -rf / som root sletter alt
 
