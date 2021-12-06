@@ -82,7 +82,7 @@ Pass på `:rm -rf /` som root sletter alt
 
 - - - -
 ### Luke 17 ###
-> Jeg elsker Matryoshka dukker. De er så kule! Det er jo som et mappe heirarki ! Hvis jeg vil lage en Matryoshka dukke lignende mappe struktur hvor den øverste mappen heter oldemor og den innerste søster (med bestemor og mor i mellom). Hvilken unix kommando kan jeg bruke ? Så lat som jeg er, ønsker jeg kun å bruke en kommando, og ingen piping! (I.e ingen bruke av | ). 
+> Jeg elsker Matryoshka dukker. De er så kule! Det er jo som et mappe heirarki! Hvis jeg vil lage en Matryoshka dukke lignende mappe struktur hvor den øverste mappen heter oldemor og den innerste søster (med bestemor og mor i mellom). Hvilken unix kommando kan jeg bruke? Så lat som jeg er, ønsker jeg kun å bruke en kommando, og ingen piping! (I.e ingen bruke av `|` ). 
 
 **Svar:** 
 `mkdir {Oldemor,bestemor,mor,søster}`
