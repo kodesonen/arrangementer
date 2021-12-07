@@ -69,16 +69,22 @@ function BigO(n) {
 
 **Svar:**
 
+
+ - - - -
+ 
+### Luke 7 ###
+
+> Hvilken av alternativene nedenfor kan bli brukt som en komparator?
+> ![8f46d6da2e7e51b6e305513e0fbde750](https://user-images.githubusercontent.com/15195014/145109265-9bc66313-bb79-40ec-aaf4-6875726d163f.png)
+
+**Svar:**
+
  - - - -
 ### Luke 15 ###
 > Jeg er på jakt etter en populær unix kommando som lar meg slette en folder og alt som er i den. Jeg er i tillegg litt lat, så jeg ønsker å slippe å bekrefte min handling. Hva er kommandoen og hva må jeg passe på når jeg bruker den? 
 
 
-**Svar:** 
-
-Kommando: `rm -rf /path/to/directory` eller `rm -rf directory`, etc.
-
-Pass på `:rm -rf /` som root sletter alt
+**Svar:** Kommando: `rm -rf /path/to/directory` eller `rm -rf directory`, etc. Pass på `:rm -rf /` som root sletter alt!
 
 - - - -
 ### Luke 17 ###
