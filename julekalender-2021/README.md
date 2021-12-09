@@ -88,6 +88,15 @@ function BigO(n) {
 **Svar:**
 
  - - - -
+  
+### Luke 9 ###
+
+> Hvordan kan man skrive ut `Hello World` med en tom `main` funksjon?
+
+**Svar:**
+
+ - - - -
+ 
 ### Luke 15 ###
 > Jeg er på jakt etter en populær unix kommando som lar meg slette en folder og alt som er i den. Jeg er i tillegg litt lat, så jeg ønsker å slippe å bekrefte min handling. Hva er kommandoen og hva må jeg passe på når jeg bruker den? 
 
