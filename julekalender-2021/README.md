@@ -104,6 +104,20 @@ function BigO(n) {
 **Svar:**
 
  - - - -
+    
+### Luke 11 ###
+
+> Er dette semantisk riktig HTML? Forklar.
+```HTML
+<div>
+ <div id="myNameId"> Name </div>
+ <input type="text" aria-label="myNameId"></input>
+</div>
+```
+
+**Svar:**
+
+ - - - -
  
 ### Luke 15 ###
 > Jeg er på jakt etter en populær unix kommando som lar meg slette en folder og alt som er i den. Jeg er i tillegg litt lat, så jeg ønsker å slippe å bekrefte min handling. Hva er kommandoen og hva må jeg passe på når jeg bruker den? 
