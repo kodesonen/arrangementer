@@ -118,6 +118,20 @@ function BigO(n) {
 **Svar:**
 
  - - - -
+     
+### Luke 12 ###
+
+> Kan du dekryptere navnene på dyrene som er lista under her? (hver bokstav står for en annen).
+> rzrajsmy
+> yohrt
+> nrst
+> zopm
+> fph
+> vys
+
+**Svar:**
+
+ - - - -
  
 ### Luke 15 ###
 > Jeg er på jakt etter en populær unix kommando som lar meg slette en folder og alt som er i den. Jeg er i tillegg litt lat, så jeg ønsker å slippe å bekrefte min handling. Hva er kommandoen og hva må jeg passe på når jeg bruker den? 
