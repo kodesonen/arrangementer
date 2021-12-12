@@ -122,12 +122,19 @@ function BigO(n) {
 ### Luke 12 ###
 
 > Kan du dekryptere navnene på dyrene som er lista under her? (hver bokstav står for en annen).
+> 
 > rzrajsmy
+> 
 > yohrt
+> 
 > nrst
+> 
 > zopm
+> 
 > fph
+> 
 > vys
+> 
 
 **Svar:**
 
