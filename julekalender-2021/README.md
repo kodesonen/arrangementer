@@ -146,6 +146,22 @@ function BigO(n) {
 **Svar:**
 
 - - - -
+  
+### Luke 14 ###
+> Hva vil *output* være på *console* ved å kjøre denne koden?
+```javascript
+"use strict";
+function logThis() {
+ this.desc = "logger";
+ console.log(this);
+}
+
+new logThis();
+```
+
+**Svar:**
+
+- - - -
  
 ### Luke 15 ###
 > Jeg er på jakt etter en populær unix kommando som lar meg slette en folder og alt som er i den. Jeg er i tillegg litt lat, så jeg ønsker å slippe å bekrefte min handling. Hva er kommandoen og hva må jeg passe på når jeg bruker den? 
